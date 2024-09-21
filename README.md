@@ -1,11 +1,9 @@
 # Hari CMS # phpmytimeline
 
 ## Authors
-
 * Matthew Harrison-Jones ([@matt_hojo](http://twitter.com/matt_hojo))
 
 ## Features
-
 * Easy install
 * No database
 * Supports
